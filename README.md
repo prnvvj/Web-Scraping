@@ -22,3 +22,13 @@ Yelp is the best approachable source for searching new customers particularly wh
 
 - ## Email Scraping </br>
 I've created Email Extractor or Email scraper extracts email addresses from the targeted websites. The complete process of Email scraping services is based on automation along with my set email finder algorithms. All most all the business require correct Emails database for built up business relationship and finding new customers. Because Email marketing is most convenient and easiest way for marketing the business. So Email scraping services are on demand in corporate world to collect such Email data from web pages. _**For having a look on my Email Scraper**_ [click here](https://yelp.com)
+
+## Sales Lead Generation Scraper
+
+Are you in search of a lead generation scraper that helps you to convert your prospects into customers? Sales lead generation web scraping has never been this easy, thanks to our lead scraping . Now you can easily find thousands of local businesses and quality leads within minutes.
+
+Every business sales starts with lead generation and sales lead generation is one of the most important parts of any business sales process, that is why you need to always update your pool of leads to find your ideal customers.
+
+However, building a list of quality sales leads is not always easy. In fact, some firms have taken it as their major task to generate sales leads and sell them to those who need them for a profit. After all, combining sales lead building with sales calls and follow-up with potential buyers is not at all easy.
+
+However, there are now easy ways of optimizing the sales lead generating process to bypass middlemen – and the favorite means being the sales lead generation web scraping. _**For having a look on my Email Scraper**_ [click here](https://yelp.com)
