@@ -4,5 +4,5 @@ Web Scraping is getting more and more important in the current days. I will go o
 In this repository I've focused on three different Python libraries that are more than enough for getting almost available data on the world wide web.
 -   _**Beautiful Soup**_
 -   _**Selenium**_
--   _**Scrapy**_
+-   _**Scrapy**_ </br>
 I will go over their main features and limitations, and provide a few examples of when to use one or another.
