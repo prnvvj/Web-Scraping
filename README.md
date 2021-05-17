@@ -3,8 +3,6 @@ https://www.worthwebscraping.com/wws-portfolio/
 https://research.aimultiple.com/web-scraping-applications/#data-analytics-data-science
 https://shravan-kuchkula.github.io/Web-Scraping-in-python/
 
-![Image](https://github.com/prnvvj/Web-Scraping/blob/main/PNG/crawler.jpeg)
-
 # Web Scraping
 Web Scraping is getting more and more important in the current days. I will go out on a limb here, and assume you have already heard the expression “Data is the new oil”. If I define web scraping as **the ability to quickly gather all sorts of data from virtually any website**, it should not be difficult to understand why there are so many businesses investing in the Web Scraping specially in their nascent stage.
 ### The web scraping triad
@@ -13,6 +11,9 @@ In this repository I've focused on three different Python libraries that are mor
 -   _**Selenium**_
 -   _**Scrapy**_ </br>
 I will go over their main features and limitations, and provide a few examples of when to use one or another.
+
+![Image](https://github.com/prnvvj/Web-Scraping/blob/main/PNG/crawler.jpeg)
+
 ## Want to Create your Own Business Database for Marketing & Sales – You have Landed at the Right Place!
 I can create advance web crawlers for Business Directory Data Extraction services that would take your business one step ahead to success in today’s cutting edge and competitive technology. For improving business outcome to collect perfect database with contact information specifically Email addresses is very important. Also it requires target oriented records according to business category. Database without these both criteria is meaningless for marketing the business. This requirement of perfect database is only fulfill by expertise data extraction services provider.
 
